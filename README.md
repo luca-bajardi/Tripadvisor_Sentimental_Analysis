@@ -29,3 +29,6 @@ Your submissions will be evaluated exploiting the [f1_score](https://scikit-lear
 
     from sklearn.metrics import f1_score
     f1_score(y_true, y_pred, average='weighted')
+
+
+This project is a part of [Data Science Lab](https://dbdmg.polito.it/wordpress/teaching/data-science-lab-2019/) exam of [Polytechnic of Turin](http://www.polito.it).
